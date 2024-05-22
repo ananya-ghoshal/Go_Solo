@@ -9,11 +9,12 @@
     border-radius: 10rem;
     transition: all 0.2s;
     position: relative;
-    font-size: $default-font-size;
+    font-size: 1.2rem;
     // Change for the button element
     border: none;
     cursor: pointer;
   }
+
   &:hover {
     transform: translateY(-3px);
     box-shadow: 0 1rem 2rem rgba($color-black, 0.2);
